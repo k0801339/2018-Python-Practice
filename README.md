@@ -2,6 +2,7 @@
 The practice is provided by Hung-Jin Lin（leVirve @Github）
 
 Apply deep-style-transfer model onto video!
+(The video can choose by your own, or you can use the sample video provided in the sample code)
 
 ## Requirements:
 - Tensorflow (CPU version)
