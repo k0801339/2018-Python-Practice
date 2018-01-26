@@ -45,8 +45,6 @@ def main():
         with Video('input/jaguar.mp4') as v:
             frames = v.read_frames(image_h=shape[1], image_w=shape[2])
 
-        print(shape[1], shape[2])
-
         logging.info("Processing image")
         start_time = datetime.now()
 
